@@ -1,5 +1,5 @@
 // Paste the link of your mark down file here to render it into your site
-const myMarkDownFile="https://raw.githubusercontent.com/atrajit-sarkar/HackTheSystem/refs/heads/main/README.md"
+const myMarkDownFile="https://raw.githubusercontent.com/Gongo-Bongo/IntroductionToJS/refs/heads/main/js.md"
 
 // Fetch the Markdown file and render it
 async function getmd() {
